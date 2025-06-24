@@ -90,10 +90,6 @@ pageviews:
 #
 theme_mode: # [light | dark] # ← 可切換深/淺色主題，若只想固定用 light 可改回 'light'
 
-#遮蓋左側部分圖標，搭配_includes/head.html的新增部分內容
-inject:
-  head:
-    - _includes/head-custom.html
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
