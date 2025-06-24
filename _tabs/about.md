@@ -1,8 +1,13 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+icon: info
+order: 5
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+嗨！我是 Skyroot，這個部落格是一個分享生活感受、思維沉澱與創作靈感的角落。
+希望你在這裡，也能找到一點點溫度與啟發 🌱
+
+---
+- 💡 部落格主題：生活、成長、自我對話
+- ✍️ 撰寫者：Lee
+- 📬 聯絡方式：
